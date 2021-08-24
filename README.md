@@ -1,4 +1,4 @@
-# timeetda
+# php/mysql test
 
 1. Create MySQL Database name 'timeconsulting'
 2. Import test.sql
